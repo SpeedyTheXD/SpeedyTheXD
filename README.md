@@ -1,6 +1,6 @@
 ## Hi there, I'm SpeedyXD 👋
 
-I'm a sophomore at [VNUHCM-US](https://hcmus.edu.vn/), Vietnam. I'm currently studying multiple fields in my school time/free time to find out which career path to pursue.
+I'm a sophomore at [VNUHCM-US](https://hcmus.edu.vn/), Vietnam. I'm currently studying multiple fields in my school/free time to find out which career path to pursue.
 
 # My Interests:
 

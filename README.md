@@ -39,3 +39,22 @@ I'm a sophomore at [VNUHCM-US](https://hcmus.edu.vn/), Vietnam. I'm currently st
 </table>
 
 </div>
+
+# Hobbies:
+
+<div align="center">
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/channel/UCiMhD4jzUqG-IgPzUmmytRQ">
+        <img src="https://github.com/user-attachments/assets/ff68c7b1-2c0b-40bd-a655-a2733f2877b9">
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/dokkan_global">
+        <img src="https://github.com/user-attachments/assets/9e5884b4-6c0e-41be-873f-e085d7f7fc6b" width="500" height="500">
+      </a>
+    </td>
+  </tr>
+</table>

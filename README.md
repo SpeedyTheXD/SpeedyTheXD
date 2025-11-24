@@ -7,6 +7,8 @@ I'm a sophomore at [VNUHCM-US](https://hcmus.edu.vn/), Vietnam. I'm currently st
 - Video Game making/modding 🎮
 - UI/UX 🖼️
 - Website 🖥️
+- Fashion 🧥
+- Graphic/ Video making 📹
 
  # I am open to:
 - any collaboration work 👐
